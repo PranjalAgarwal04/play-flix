@@ -30,3 +30,7 @@ The Netflix clone is a web application that replicates the basic functionality a
 - Clicking on any item will take you to its detail page, where you can find more information and play the trailer.
 - Use the navigation bar to access different sections of the website.
 - The application is responsive and should adapt to different screen sizes.
+
+## Author
+
+Pranjal Agarwal
